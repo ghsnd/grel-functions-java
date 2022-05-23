@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+### Fixed
+- grel_java_mapping.ttl: the `Mapping` class is defined in `https://w3id.org/function/ontology#`,
+  not in `https://w3id.org/function/vocabulary/implementation#`
+
 ## [0.7.2] - 2022-03-24
 
 ### Fixed
